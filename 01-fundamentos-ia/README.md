@@ -43,3 +43,64 @@ Além do conteúdo técnico, o desafio também teve como objetivo incentivar a a
 ## Status do projeto
 
 Em desenvolvimento.
+
+---
+
+## Fontes utilizadas
+
+As fontes abaixo foram utilizadas como base de estudo no NotebookLM:
+
+- https://www.promptingguide.ai/pt
+- https://docs.python.org/3/
+- https://ai.google/
+
+---
+
+## Exploração prática no NotebookLM
+
+Durante o desenvolvimento do projeto, o NotebookLM foi utilizado como ferramenta de apoio aos estudos e organização do conhecimento.
+
+Foram realizados testes com prompts voltados para:
+- IA Generativa;
+- LLMs;
+- Engenharia de Prompt;
+- funcionamento da Inteligência Artificial moderna.
+
+Algumas perguntas utilizadas:
+
+### Prompt 1
+> Explique de forma simples o que é IA Generativa.
+
+### Prompt 2
+> Qual a diferença entre IA tradicional e IA Generativa?
+
+### Prompt 3
+> Como os LLMs funcionam?
+
+### Prompt 4
+> O que torna um prompt eficiente?
+
+---
+
+## Aprendizados obtidos
+
+Durante os testes foi possível perceber como a forma da pergunta influencia diretamente na qualidade da resposta gerada pela IA.
+
+Também foi possível entender:
+- a importância do contexto nos prompts;
+- como os LLMs interpretam informações;
+- como a IA pode auxiliar no aprendizado técnico;
+- a utilidade do NotebookLM na organização dos estudos.
+
+---
+
+## Dificuldades encontradas
+
+No início, algumas respostas ficaram muito amplas e genéricas.
+
+Para melhorar os resultados, foi necessário:
+- criar perguntas mais específicas;
+- adicionar contexto;
+- dividir perguntas complexas em partes menores.
+
+Esse processo ajudou a compreender melhor os fundamentos da Engenharia de Prompt.
