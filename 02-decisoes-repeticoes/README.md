@@ -38,3 +38,39 @@ Desenvolver raciocínio lógico e compreender como sistemas utilizam estruturas 
 ## Status
 
 Em desenvolvimento.
+
+---
+
+## Funcionamento do sistema
+
+O sistema solicita o nome e a idade do usuário para realizar uma validação simples de acesso.
+
+As regras utilizadas foram:
+
+- usuários maiores de 18 anos possuem acesso permitido;
+- usuários entre 16 e 17 anos possuem acesso com restrições;
+- usuários menores de 16 anos possuem acesso negado.
+
+Após cada verificação, o sistema pergunta se o usuário deseja realizar uma nova consulta.
+
+O programa permanece em execução até que a opção de encerramento seja informada.
+
+---
+
+## Estruturas utilizadas
+
+### Estruturas condicionais
+
+Foram utilizadas estruturas `if`, `elif` e `else` para controlar as decisões do sistema.
+
+### Estruturas de repetição
+
+Foi utilizado um laço `while` para manter o sistema em funcionamento até o encerramento manual pelo usuário.
+
+---
+
+## Arquivo principal
+
+```python
+sistema.py
+```
