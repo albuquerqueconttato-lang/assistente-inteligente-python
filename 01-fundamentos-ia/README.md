@@ -104,3 +104,23 @@ Para melhorar os resultados, foi necessário:
 - dividir perguntas complexas em partes menores.
 
 Esse processo ajudou a compreender melhor os fundamentos da Engenharia de Prompt.
+
+---
+
+## Registros do desenvolvimento
+
+### Utilização do NotebookLM
+
+![NotebookLM](../imagens/teste.bootcamp.jpeg)
+
+### Testes de prompts
+
+![Prompt](../imagens/teste.bootcamp%20(2).jpeg)
+
+### Respostas geradas pela IA
+
+![Resposta](../imagens/teste.bootcamp%20(3).jpeg)
+
+### Exploração prática da ferramenta
+
+![Exploração](../imagens/teste.bootcamp%20(4).jpeg)
