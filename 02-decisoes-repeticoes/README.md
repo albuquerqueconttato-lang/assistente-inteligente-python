@@ -74,3 +74,8 @@ Foi utilizado um laço `while` para manter o sistema em funcionamento até o enc
 ```python
 sistema.py
 ```
+---
+
+## Execução do sistema
+
+![Sistema Python](../imagens/teste.bootcamp%20(5).jpeg)
